@@ -1,11 +1,13 @@
 {
   "name": "custom-dashed-border",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React component for customisable dashed border",
   "author": "Hexin <hexium310@gmail.com>",
   "main": "lib/custom-dashed-border.js",
   "module": "lib/esm/custom-dashed-border.js",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
