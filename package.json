@@ -5,6 +5,7 @@
   "author": "Hexin <hexium310@gmail.com>",
   "main": "lib/custom-dashed-border.js",
   "module": "lib/esm/custom-dashed-border.js",
+  "files": ["lib"],
   "license": "MIT",
   "repository": {
     "type": "git",
