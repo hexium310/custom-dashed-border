@@ -6,6 +6,10 @@
   "main": "lib/custom-dashed-border.js",
   "module": "lib/esm/custom-dashed-border.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hexium310/custom-dashed-border.git"
+  },
   "scripts": {
     "build": "rollup -c",
     "watch": "rollup -c -w",
