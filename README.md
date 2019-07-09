@@ -50,8 +50,10 @@ const App = () => {
 
 ### Props
 
-This component have `top`, `right`, `bottom` and `left` props.
-Can set border options (see below) to each prop.
+This component has `top`, `right`, `bottom` and `left` props.
+Can set border options (see below) to each prop.  
+Positions that didn't use props are not displayed.  
+Positions that didn't set options are using the default option.
 
 ```javascript
 // Border position. top or bottom or right or left.
